@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akmal</h1>
-- 🔭 I’m currently working on **Clean Code**
-
-- 🌱 I’m currently learning **Alif Academy**
+- 🔭 I’m currently working on **ОАО «Алиф Банк»**
 
 - 📫 How to reach me **akmal199601@mail.ru**
 
